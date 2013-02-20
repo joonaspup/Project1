@@ -1,5 +1,3 @@
-Project1
+Project 1 - Web Log NG
 ========
-Lue minut? :D
-
-Editointia
+Lisää tekstiä...
